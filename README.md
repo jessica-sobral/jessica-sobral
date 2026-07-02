@@ -1,5 +1,5 @@
 ## oi, fique à vontade! 🌼
-Meu nome é `Jéssica Sobral`, tenho `18 anos` e sou de `SP/Brasil`. Iniciei meus estudos no `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo` em 2020, no curso `Técnico em Informática` integrado ao Ensino Médio, e atualmente estou no `4° e último ano` do curso. Pronomes `Ela/Dela`.
+Meu nome é `Jéssica Sobral`, tenho `21 anos` e sou de `SP/Brasil`. Sou formada pelo `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo`, no curso `Técnico em Informática` integrado ao Ensino Médio, e atualmente estou no meu `1° semestre` do curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Unicamp. Pronomes `Ela/Dela`.
 
 <div align="center">
     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/74a847060977660e133160cb4a658719.gif" width="230" height="230" border="0" alt="https://picasion.com/" ></a> <br><br>  
