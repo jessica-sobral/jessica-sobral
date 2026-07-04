@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jessica-sobral&color=A47DAB)
+
 ## oi, fique à vontade! 🌼
 Meu nome é `Jéssica Sobral`, tenho `21 anos` e sou de `SP/Brasil`. Sou formada pelo `IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo` no curso `Técnico em Informática` integrado ao Ensino Médio, e atualmente estou no meu `2° semestre` do curso de `Tecnologia em Análise e Desenvolvimento de Sistemas` da `UNICAMP - Universidade Estadual de Campinas`. Pronomes `Ela/Dela`.
 
@@ -28,3 +30,8 @@ Meu nome é `Jéssica Sobral`, tenho `21 anos` e sou de `SP/Brasil`. Sou formada
 <div align="center">
     <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-sobral&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<p align = "center">
+
+ ![Snake animation](https://github.com/jessica-sobral/jessica-sobral/blob/output/github-contribution-grid-snake.svg)
+</p>
