@@ -25,13 +25,7 @@ Meu nome é `Jéssica Sobral`, tenho `21 anos` e sou de `SP/Brasil`. Sou formada
     </div>
 </div>
 
-##
-
-<div align="center">
-    <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-sobral&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <p align = "center">
-
- ![Snake animation](https://github.com/jessica-sobral/jessica-sobral/blob/output/github-contribution-grid-snake.svg)
+    <br clear="both">
+    <img data-importer="snake" src="https://raw.githubusercontent.com/jessica-sobral/jessica-sobral/snake-output/snake.svg" alt="Snake animation" />
 </p>
