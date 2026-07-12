@@ -11,13 +11,13 @@
     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/74a847060977660e133160cb4a658719.gif" width="230" height="230" border="0" alt="https://picasion.com/" ></a> <br><br>  
 </div>-->
 
-<h2 align="center">connect with me ⋆.𐙚 ̊</h2>
+<h3 align="center">connect with me ⋆.𐙚 ̊</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/jessica-sobral-636718229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:jessicasobral5672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br>
 </div>
 
-<h2 align="center">languages & tools ⋆.𐙚 ̊</h2>
+<h3 align="center">languages & tools ⋆.𐙚 ̊</h3>
 <div align="center">
     <div style="display: inline_block; align_items: center"> <br>
         <img align="center" alt="Oracle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -31,7 +31,7 @@
     </div>
 </div>
 
-<h2 align="center">github stats ⋆.𐙚 ̊</h2>
+<h3 align="center">github stats ⋆.𐙚 ̊</h3>
 <p align = "center">
     <br clear="both">
     <img data-importer="snake" src="https://raw.githubusercontent.com/jessica-sobral/jessica-sobral/snake-output/snake.svg" alt="Snake animation" />
